@@ -1,0 +1,500 @@
+    8  ls
+    9  ls
+   10  cd Fat_Man.txt 
+   11  cat Fat_Man.txt 
+   12  mkdir Monster
+   13  ls
+   14  mv Monster/ fallout
+   15  cd ..
+   16  mkdir Monsters
+   17  mv Feral_Ghoul.txt Monsters
+   18  rm Wampa.txt 
+   19  less --help
+   20  less long-entry.txt 
+   21  echo '#!' >>> Script.text
+   22  echo '#!' >> Script.text
+   23  ls
+   24  cd Script.text 
+   25  > War never changes. My name is...
+   26  echo "talk about war" >> "Script.txt"
+   27  echo "echo ' My name is David YEAH' "
+   28  echo 'I want some ice cream' "
+   29  echo "echo ' My name is David YEAH' " >> script.txt 
+   30  echo "echo ' My name is David YEAH' " >> script.text
+   31  echo 'I want some ice cream' "
+   32  echo "echo ' My name is David YEAH' " >> script.txt 
+   33  echo "echo ' My name is David YEAH' " >> script.txt
+   34  echo "echo 'David Song from MIMIC' "
+   35  echo "David song from MIMIC" >> "Script.txt"
+   36  ./Script.txt
+   37  ./Script.txt
+   38  pyton -i
+   39  python -i
+   40  git config-- list
+   41  git config -- list
+   42  git config --list
+   43  cd Desktop
+   44  list
+   45  help
+   46  git innit
+   47  git init
+   48  ls
+   49  cd Desktop/
+   50  cd OndeDrive/
+   51  cd OneDrive
+   52  ls
+   53  cd Área de Trabalho
+   54  cd Desktop
+   55  cd 'Área de Trabalho'
+   56  ls
+   57  mkdir IC
+   58  cd IC
+   59  mkdir Git
+   60  cd Git
+   61  ls
+   62  git init
+   63  git add .gitignore
+   64  ls
+   65  git add gitignore
+   66  git add .gitignore
+   67  git remote add origin https://github.com/Monibluee/IC---Commit.git
+   68  git branch -M main
+   69  git remote add origini https://github.com/Monibluee/IC---Commit.git 
+   70  ls
+   71  git remote -v
+   72  git add .gitattributes
+   73  mkdir README.md
+   74  ls
+   75  git status
+   76  git add README.md
+   77  git status
+   78  git add README.de
+   79  git add README.md
+   80  ls
+   81  rmir README.md
+   82  rmdri README.md
+   83  rmdir README.md
+   84  touch README.md
+   85  ls
+   86  git add README.md
+   87  git status
+   88  git commit -m "Cria README inicial"
+   89  git status
+   90  git push -u origin main
+   91  git remove -v
+   92  git remote -v
+   93  git remote remove origin
+   94  ls
+   95  cd IC
+   96  cd IC/
+   97  cd ...
+   98  cd ..
+   99  ls
+  100  cd ic-git-exercicio/
+  101  git status
+  102  git remove -v
+  103  git remote v-
+  104  git remote -v
+  105  git remote remove origin
+  106  git push -u origin main
+  107  git remote add origin https://github.com/Monibluee/IC---Commit.git 
+  108  git remote -v
+  109  git remote remove origin
+  110  git remote remove origin
+  111  git remote -v
+  112  git remote remove origin
+  113  git remote remove origini
+  114  git remote add origin https://github.com/Monibluee/IC---Commit.git 
+  115  git push -u origin main
+  116  git pull origin main --allow-unrelated-histories 
+  117  ls
+  118  cd OneDrive/
+  119  ls
+  120  cd 'Área de Trabalho'/
+  121  ls
+  122  cd IC/
+  123  ls
+  124  cd ic-git-exercicio/
+  125  git branch -M main
+  126  git push -u origin main
+  127  git pull
+  128  git push -u origin main
+  129  git status
+  130  git remote -v
+  131  git remote set-url origin https://github.com/Monibluee/IC---Commit.git
+  132  git remote -v
+  133  git branch -M main
+  134  git push -u origin main
+  135  git pull
+  136  git status
+  137  git pull
+  138  git status
+  139  git status
+  140  git add .
+  141  git commit -m "Add new .gitignore"
+  142  git pull
+  143  git push -u origin main
+  144  git add NOTAS.txt
+  145  git add .
+  146  git add NOTAS.txt
+  147  git add . NOTAS.txt
+  148  touch NOTAS.txt 
+  149  ls
+  150  ls
+  151  cd NOTAS.txt 
+  152  echo "Aprendi a criar um repositorio" > NOTAS.txt 
+  153  echo "Aprendi a fazer commits" >> NOTAS.txt 
+  154  echo "Aprendi a enviar eles pro github" >>> NOTAS.txt 
+  155  git add NOTAS.txt 
+  156  git commit -m "Adiciona NOTES"
+  157  git status
+  158  git mv NOTAS.txt  APONTAMENTOS.txt
+  159  git status
+  160  git commit -m "Renomeia NOTAS para APONTAMENTOS"
+  161  git push
+  162  git rm APONTAMENTOS.txt 
+  163  git commit -m "Removi APONTAMENTOS"
+  164  git push
+  165  ls
+  166  cd ..
+  167  git clone https://github.com/Monibluee/IC-Commit.git copia repo
+  168  git clone https://github.com/Monibluee/IC-Commit.git copia-repo
+  169  cd copia-repo
+  170  git log --oneline
+  171  echo "" >> README.md 
+  172  echo "## O que aprendi" >> README.md 
+  173  echo "Aprendi a usar o Git e o Github, ou será que não..." >> README.md 
+  174  cat README.md 
+  175  cat README.md 
+  176  sed -i '1d' README.md 
+  177  cat
+  178  cat README.md 
+  179  git add README.md 
+  180  git commit -m "Adicionei seção: O que aprendi"
+  181  git push
+  182  ls
+  183  cd ..
+  184  ls
+  185  cd ic-git-exercicio/
+  186  git pull
+  187  cat README.md 
+  188  nano README.md 
+  189  cat README.md 
+  190  git add README.md 
+  191  git commit -m "Versão A"
+  192  git push
+  193  git pull
+  194  git add README.md 
+  195  git status
+  196  git commit -m "Resolve conflito README"
+  197  git push
+  198  git confing --global user.name "Julia Holanda"
+  199  git config --global user.name "Julia Holanda"
+  200  git --list
+  201  git config --list
+  202  ls
+  203  cd OneDrive/
+  204  ls
+  205  cd 'Área de Trabalho'/
+  206  LS
+  207  cd IC/
+  208  ls
+  209  git add StardewValley
+  210  mkdir StardewValley
+  211  ls
+  212  cd StardewValley/
+  213  git init
+  214  mkdir Stardew.md
+  215  ls
+  216  git remote add origin https://github.com/Monibluee/IC-Stardew-valley.git 
+  217  git branch -M main
+  218  git push -u origin main
+  219  git commit -m "StardewValley first commit"
+  220  git status
+  221  ls
+  222  cd Stardew.md/
+  223  touch StardewValley.md
+  224  touch Stardew.d
+  225  touch Stardew.md
+  226  toutch st.md
+  227  touch st.md
+  228  cd ..
+  229  touch Stardew
+  230  ls
+  231  git mv Stardew Stardew.md
+  232  ls
+  233  cd OneDrive/
+  234  ls
+  235  cd 'Área de Trabalho'/
+  236  la
+  237  ls
+  238  cd IC/
+  239  ls
+  240  cd StardewValley/
+  241  ls
+  242  git remote add origin https://github.com/Monibluee/IC-Stardew-valley.git 
+  243  remote -v
+  244  git add README.md
+  245  git remote -v
+  246  git add README.md
+  247  touch READ.md
+  248  git status
+  249  echo "#Stardew Valley" > Stardew.md 
+  250  git push -u origin main
+  251  git branch -M main
+  252  git push -u origin main
+  253  git add .
+  254  git status
+  255  git commit -m "Primeiro commit Stardew valley"
+  256  git push -u origin main
+  257  git status
+  258  git add
+  259  git add .
+  260  git commit -m "Titulo adicionado"
+  261  git push -u origin main
+  262  git status
+  263  git status
+  264  git log --oneline
+  265  git init
+  266  git clone https://github.com/David-okay/exerc_8.git 
+  267  git lsf install
+  268  git lfs install
+  269  git branch DavidJulia
+  270  git switch main
+  271  git branch -M main
+  272  git branch DavidJulia
+  273  git branch oops
+  274  git commit -u origin man
+  275  git commit
+  276  git add README.md
+  277  cd exerc_8/
+  278  git branch DavidJulia
+  279  git switch DavidJulia
+  280  git add READ.md
+  281  git add 4456129.jpg
+  282  git add camila-jpeg
+  283  git add camila.jpeg
+  284  git add image.webp
+  285  git add images (1).jpg
+  286  git add "images (1).jpg"
+  287  git add images.jpg
+  288  git add README.md
+  289  git commit -m "personagens, itens e links úteis"
+  290  git push
+  291  git push -u main
+  292  git push --set-upstream origin DavidJulia
+  293  git status
+  294  git init
+  295  git clone https://github.com/rafaeldavidjose/IC_aula_8_P_exercicios.git 
+  296  ls
+  297  cd IC_aula_8_P_exercicios/
+  298  LS
+  299  git remote add origin https://github.com/Monibluee/ex8-P.git 
+  300  git remote add https://github.com/Monibluee/ex8-P.git 
+  301  git remote add name https://github.com/Monibluee/ex8-P.git 
+  302  git lfs install
+  303  git lfs track "*.png"
+  304  git remote add origin https://github.com/Monibluee/ex8-P.git 
+  305  touch README.md
+  306  gitt commit -m "ex8"
+  307  git commit -m "ex8"
+  308  git add .
+  309  git status
+  310  git commit -m "ex8"
+  311  git push origin main
+  312  git remote -v
+  313  git push -u origin main
+  314  git remote add control https://github.com/Monibluee/ex8-P.git 
+  315  git push -u control main
+  316  git add .
+  317  git commit -m "alteração"
+  318  git push
+  319  git status
+  320  git pull origin main
+  321  git branch 
+  322  git branch feat_8
+  323  git add README_modelo.md
+  324  git commit -m "Adiconei informação ao readme"
+  325  git push -u control feat_8
+  326  git branch
+  327  git status
+  328  git add README_modelo.md 
+  329  git staus
+  330  git status
+  331  git commit -m "Adicionei informações ao readme modelo"
+  332  git push -u control feat_8
+  333  git branch
+  334  git push origin main
+  335  git push control main
+  336  git branch
+  337  git remote -v
+  338  git switch feat_8 
+  339  git add .
+  340  git status
+  341  git add README_modelo.md 
+  342  git commit -m "Adicionei informações ao README"
+  343  git push control main
+  344  git push control feat_8 
+  345  git push
+  346  git add README_modelo.md 
+  347  git commit -m "Checking if it works"
+  348  git push
+  349  git add README_modelo.md 
+  350  git commit -m "Checking if it works?"
+  351  git push
+  352  git branch feature_1
+  353  git branch
+  354  git switch feature_1 
+  355  git status
+  356  git add README_modelo.md 
+  357  git commit -m "Nova branch"
+  358  git push
+  359  git push feature_1
+  360  git commit -m "Alterei uma linha"
+  361  git add README_modelo.md 
+  362  git commit -m "Alterei uma linha"
+  363  git push 
+  364  git push origin feature_1
+  365  git remote set-url origin https://github.com/Monibluee/ex8-P.git 
+  366  git push origin feature_1
+  367  git branch
+  368  git status
+  369  git add assets/pic.jpg 
+  370  git commit-m "Adicionei imagem png"
+  371  git switch main
+  372  git add README.md
+  373  git commit -m "Atualiza README"
+  374  git push origin main
+  375  git switch feature_7
+  376  git rebase main
+  377  git push origin feature_7
+  378  git switch main
+  379  git merge feature_7
+  380  git push origin main
+  381  git lfs install
+  382  git lfs ls-fileś
+  383  git lfs ls-files
+  384  git lfs ls-files
+  385  git lfs track
+  386  git status
+  387  git add assets/pic.png
+  388  git commit 
+  389  git commit -m "Trocando a foto com formato errado"
+  390  git switch feature_7
+  391  git merge main
+  392  git log
+  393  git switch main
+  394  git branch
+  395  git status
+  396  git add
+  397  git add .
+  398  git status
+  399  ls assets
+  400  git lfs track
+  401  git lfs track "*.png"
+  402  git add .gitatributes
+  403  git add assets/pic.png 
+  404  git commit 
+  405  git commit -m "Adiciona PNG aos assets"
+  406  git status
+  407  git push origin main
+  408  git switch feature_7
+  409  git push origin feature_7
+  410  git switch main
+  411  git merge feature_7
+  412  git push
+  413  git switch feature_7
+  414  ls
+  415  cd assets/
+  416  ls
+  417  git rm assets/pic.jpg
+  418  git rm pic.jpg 
+  419  git status
+  420  git commit -m "Remove JPG antigo"
+  421  git push origin feature_77
+  422  git push origin feature_7
+  423  git switch main
+  424  git merge feature_7
+  425  git commit -m "Merge feature_7 into main"
+  426  git status
+  427  git push origin main
+  428  git status
+  429  git lfs ls-files
+  430  git init
+  431  git remote add origin https://github.com/Monibluee/Estudando-git.git 
+  432  git branch -M main
+  433  git push -u origin main
+  434  git add.
+  435  git statius
+  436  git status
+  437  ls
+  438  git cd 'New folder'/
+  439  cd 'New folder'/
+  440  git status
+  441  ls
+  442  git add jogo.py
+  443  git commit -m "Testando"
+  444  git push
+  445  git init
+  446  git branch -M main
+  447  git remote add origin https://github.com/Monibluee/Estudando-git.git 
+  448  git push -u origin main
+  449  ls
+  450  git add
+  451  git add .
+  452  git commit -M "Teste"
+  453  git branch -M main
+  454  git remote add origin https://github.com/Monibluee/Estudando-git.git 
+  455  git push -u origin main
+  456  git commit -m "Teste"
+  457  git branch -M main
+  458  git remote add origin https://github.com/Monibluee/Estudando-git.git 
+  459  git push -u origin main
+  460  git branch inventario
+  461  git switch inventario 
+  462  git commit -m "Inventario feito"
+  463  git add .
+  464  git commit -m "Inventario feito"
+  465  git push
+  466  git push --set--upstream origin inventario 
+  467  git push -u origin inventario
+  468  git switch main
+  469  git merge inventario 
+  470  git branch -d inventario 
+  471  git status
+  472  git log --oneline
+  473  git push
+  474  git init
+  475  git add README.md
+  476  git remote add origin https://github.com/Monibluee/IC_LC_A_22604731.git 
+  477  git branch -M main
+  478  git push -u origin main
+  479  git help
+  480  git addsetup.sh
+  481  git --help
+  482  git cd READMe.MD
+  483  git add .
+  484  git add README.md
+  485  git add README.md
+  486  mkdir README.md
+  487  ls
+  488  mkdir setup.sh
+  489  ls
+  490  cd setup.sh/
+  491  echo " Criar README.md = mkdir mochila.py"
+  492  echo "Cria readme = = mkdir README.md
+  493  echo "mostra repositorio atual = "
+  494  echo "Cria readme = = mkdir README.md
+  495  echo "lista = ls "
+  496  ls
+  497  echo "Cria readme = = mkdir README.md
+  498  echo "mostra repositorio atual = pwd "
+  499  echo "Cria readme = = mkdir README.md
+  500  cat
+  501  git init
+  502  ls
+  503  corre history > historico.txt
+  504  git status
+  505  git add .
+  506  corre history > historico.txt
+  507  history > historico.txt
